@@ -11,6 +11,7 @@ You can use the offical open source versions of Gyazo.
 - Windows - https://github.com/gyazo/Gyazowin
 - Mac OSX -  https://github.com/gyazo/Gyazo
 - Linux - https://github.com/gyazo/Gyazo-for-Linux
+- Chrome Extension - https://github.com/gyazo/gyazo-chrome-extension
 
 ## Library
 
@@ -27,7 +28,6 @@ You can use the offical open source versions of Gyazo.
 
 ## Upload Tools
 
-- [gyazo-chrome-extension](https://github.com/gyazo/gyazo-chrome-extension) - Upload captures of website to Gyazo via Chrome.
 - [UnityGyazo](https://github.com/cignoir/UnityGyazo) - Gyazo Uploader written on Unity.
 - [gyazo-android](https://github.com/tnj/gyazo-android) - Upload Screenshot to Gyazo from Android.
 - [UniGyazo](https://github.com/hidakas/UniGyazo) - UnityEditor Extension for Uploading Screenshot to Gyazo.
