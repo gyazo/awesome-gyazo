@@ -31,8 +31,8 @@ You can use the offical open source versions of Gyazo.
 - [UnityGyazo](https://github.com/cignoir/UnityGyazo) - Gyazo Uploader written on Unity.
 - [gyazo-android](https://github.com/tnj/gyazo-android) - Upload Screenshot to Gyazo from Android.
 - [UniGyazo](https://github.com/hidakas/UniGyazo) - UnityEditor Extension for Uploading Screenshot to Gyazo.
-- [gyazo-cli](https://github.com/Tomohiro/gyazo-cli) - Commandline tool for uploading images to Gyazo. Written with Golang.
-- [gyazo-cli](https://www.npmjs.com/package/gyazo-cli) - Commandline tool fot uploading images to Gyazo. Written with Node.
+- [Tomohiro/gyazo-cli](https://github.com/Tomohiro/gyazo-cli) - Commandline tool for uploading images to Gyazo. Written with Golang.
+- [uiureo/gyazo-cli](https://github.com/uiureo/gyazo-cli) - Commandline tool fot uploading images to Gyazo. Written with Node.
 - [gyazo-linux](https://github.com/egrajeda/gyazo-linux) - Gyazo client for Linux
 - [gyazowinp](https://github.com/tyoro/Gyazowinp) - Gyazo client for Windows
 
