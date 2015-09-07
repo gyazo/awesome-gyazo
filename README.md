@@ -26,6 +26,10 @@ You can use the offical open source versions of Gyazo.
 
 - [python-gyazo](https://github.com/ymyzk/python-gyazo) - Gyazo API wrapper for Python
 
+### Perl
+
+- [WebService::Gyazo](https://github.com/maximusfox/WebService--Gyazo) - Perl image upload library for Gyazo.
+
 ## Upload Tools
 
 - [UnityGyazo](https://github.com/cignoir/UnityGyazo) - Gyazo Uploader written on Unity.
@@ -41,7 +45,6 @@ You can use the offical open source versions of Gyazo.
 - [gyazo](https://www.npmjs.com/package/gyazo) - Server application written with Node.
 - [php-gyazo](https://github.com/yuya-takeyama/php-gyazo) - Server application written with PHP using Sumile framework.
 - [Gyazo_AWS_S3](https://github.com/korjik/Gyazo_AWS_S3) - Server written with PHP and it sent files to AWS S3.
-- [WebService::Gyazo](https://github.com/maximusfox/WebService--Gyazo) - Perl image upload library for Gyazo.
 - [cnzo](https://github.com/cnosuke/cnzo) - Gyazo server running on Docker using AWS S3.
 - [gyazobank](https://github.com/riaf/gyazobank) - You can easy deploy to Heroku.
 
