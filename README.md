@@ -2,7 +2,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-**All Pull Request is Welcome :tada:**
+**All Pull Requests are Welcome :tada:**
 
 Gyazo is the easiest way to capture your screen.  http://gyazo.com
 
