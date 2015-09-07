@@ -16,58 +16,37 @@ You can use opensourced Gyazo.
 
 ### NodeJS
 
-- https://www.npmjs.com/package/gyazo-api
-  - Gyazo API wrapper for Node
+- [gyazo-api](https://www.npmjs.com/package/gyazo-api) - Gyazo API wrapper for Node
 
 ### Ruby
-
-- https://rubygems.org/gems/gyazo/
-  - Gyazo API wrapper for Ruby
+- [gyazo](https://rubygems.org/gems/gyazo/) - Gyazo API wrapper for Ruby
 
 ### Python
 
-- https://github.com/ymyzk/python-gyazo
-  - Gyazo APi wrapper for Python
+- [python-gyazo](https://github.com/ymyzk/python-gyazo) - Gyazo API wrapper for Python
 
 ## Upload Tools
 
-- https://github.com/gyazo/gyazo-chrome-extension
-  - Upload captures of website to Gyazo via Chrome.
-- https://github.com/cignoir/UnityGyazo
-  - Gyazo Uploader written on Unity.
-- https://github.com/tnj/gyazo-android
-  - Upload Screenshot to Gyazo from Android.
-- https://github.com/hidakas/UniGyazo
-  - UnityEditor Extension for Uploading Screenshot to Gyazo.
-- https://github.com/Tomohiro/gyazo-cli
-  - Commandline tool for uploading images to Gyazo. Written with Golang.
-- https://www.npmjs.com/package/gyazo-cli
-  - Commandline tool fot uploading images to Gyazo. Written with Node.
-- https://github.com/egrajeda/gyazo-linux
-  - Gyazo client for Linux
-- https://github.com/tyoro/Gyazowinp
-  - Gyazo client for Windows
+- [gyazo-chrome-extension](https://github.com/gyazo/gyazo-chrome-extension) - Upload captures of website to Gyazo via Chrome.
+- [UnityGyazo](https://github.com/cignoir/UnityGyazo) - Gyazo Uploader written on Unity.
+- [gyazo-android](https://github.com/tnj/gyazo-android) - Upload Screenshot to Gyazo from Android.
+- [UniGyazo](https://github.com/hidakas/UniGyazo) - UnityEditor Extension for Uploading Screenshot to Gyazo.
+- [gyazo-cli](https://github.com/Tomohiro/gyazo-cli) - Commandline tool for uploading images to Gyazo. Written with Golang.
+- [gyazo-cli](https://www.npmjs.com/package/gyazo-cli) - Commandline tool fot uploading images to Gyazo. Written with Node.
+- [gyazo-linux](https://github.com/egrajeda/gyazo-linux) - Gyazo client for Linux
+- [gyazowinp](https://github.com/tyoro/Gyazowinp) - Gyazo client for Windows
 
 ## Selfhosting
 
-- https://www.npmjs.com/package/gyazo
-  - Server application written with Node.
-- https://github.com/yuya-takeyama/php-gyazo
-  - Server application written with PHP using Sumile framework.
-- https://github.com/korjik/Gyazo_AWS_S3
-  - Server written with PHP and it sent files to AWS S3.
-- https://github.com/maximusfox/WebService--Gyazo
-  - `WebService::Gyazo` is Perl image upload library for Gyazo.
-- https://github.com/cnosuke/cnzo
-  - Gyazo server running on Docker using AWS S3.
-- https://github.com/riaf/gyazobank
-  - You can easy deploy to Heroku.
+- [gyazo](https://www.npmjs.com/package/gyazo) - Server application written with Node.
+- [php-gyazo](https://github.com/yuya-takeyama/php-gyazo) - Server application written with PHP using Sumile framework.
+- [Gyazo_AWS_S3](https://github.com/korjik/Gyazo_AWS_S3) - Server written with PHP and it sent files to AWS S3.
+- [WebService::Gyazo](https://github.com/maximusfox/WebService--Gyazo) - Perl image upload library for Gyazo.
+- [cnzo](https://github.com/cnosuke/cnzo) - Gyazo server running on Docker using AWS S3.
+- [gyazobank](https://github.com/riaf/gyazobank) - You can easy deploy to Heroku.
 
 ## Miscellaneous
 
-- https://github.com/pastak/gyazo-menubar
-  - Browse your Gyazo history on Menubar.
-- https://github.com/osyo-manga/vim-gyazo
-  - You can gyazo on Vim.
-- http://gyazo3ds.herokuapp.com/
-  - Upload to Gyazo via your browser. it's suitable for Nintendo 3DS.
+- [gyazo-menubar](https://github.com/pastak/gyazo-menubar) - Browse your Gyazo history on Menubar.
+- [vim-gyazo](https://github.com/osyo-manga/vim-gyazo) - You can gyazo on Vim.
+- [gyazo3ds](http://gyazo3ds.herokuapp.com/) - Upload to Gyazo via your browser. it's suitable for Nintendo 3DS.
