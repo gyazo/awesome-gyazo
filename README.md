@@ -47,6 +47,7 @@ You can use opensourced Gyazo.
 
 ## Miscellaneous
 
+- [JiGyazo](https://github.com/uiureo/JiGyazo) - Gyazo with selfie.
 - [gyazo-menubar](https://github.com/pastak/gyazo-menubar) - Browse your Gyazo history on Menubar.
 - [vim-gyazo](https://github.com/osyo-manga/vim-gyazo) - You can gyazo on Vim.
 - [gyazo3ds](http://gyazo3ds.herokuapp.com/) - Upload to Gyazo via your browser. it's suitable for Nintendo 3DS.
