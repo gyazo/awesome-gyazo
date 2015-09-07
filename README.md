@@ -6,11 +6,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Gyazo is the easiest way to capture your screen.  https://gyazo.com
 
-You can use opensourced Gyazo.
+You can use the offical open source versions of Gyazo.
 
-- Windows: https://github.com/gyazo/Gyazowin
-- MacOSX: https://github.com/gyazo/Gyazo
-- Linux: https://github.com/gyazo/Gyazo-for-Linux
+- Windows - https://github.com/gyazo/Gyazowin
+- Mac OSX -  https://github.com/gyazo/Gyazo
+- Linux - https://github.com/gyazo/Gyazo-for-Linux
 
 ## Library
 
