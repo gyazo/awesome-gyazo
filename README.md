@@ -4,7 +4,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 **All Pull Request is Welcome :tada:**
 
-Gyazo is the easiest way to capture your screen.  http://gyazo.com
+Gyazo is the easiest way to capture your screen.  https://gyazo.com
 
 You can use opensourced Gyazo.
 
