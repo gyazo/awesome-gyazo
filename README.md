@@ -47,6 +47,7 @@ You can use the offical open source versions of Gyazo.
 - [Gyazo_AWS_S3](https://github.com/korjik/Gyazo_AWS_S3) - Server written with PHP and it sent files to AWS S3.
 - [cnzo](https://github.com/cnosuke/cnzo) - Gyazo server running on Docker using AWS S3.
 - [gyazobank](https://github.com/riaf/gyazobank) - You can easy deploy to Heroku.
+- [Snaps-php](https://github.com/1Conan/Snaps-php) - Server script written with PHP. Supports Chrome extention and Desktop apps.
 
 ## Miscellaneous
 
