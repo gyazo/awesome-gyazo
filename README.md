@@ -30,6 +30,10 @@ You can use the offical open source versions of Gyazo.
 
 - [WebService::Gyazo](https://github.com/maximusfox/WebService--Gyazo) - Perl image upload library for Gyazo.
 
+### Go
+
+- [go-gyazo](https://github.com/Tomohiro/go-gyazo) - Go library for accessing the Gyazo API
+
 ## Upload Tools
 
 - [UnityGyazo](https://github.com/cignoir/UnityGyazo) - Gyazo Uploader written on Unity.
