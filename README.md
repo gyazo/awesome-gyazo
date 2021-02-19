@@ -60,3 +60,4 @@ You can use the offical open source versions of Gyazo.
 - [vim-gyazo](https://github.com/osyo-manga/vim-gyazo) - You can gyazo on Vim.
 - [gyazo3ds](http://gyazo3ds.herokuapp.com/) - Upload to Gyazo via your browser. it's suitable for Nintendo 3DS.
 - [alfred-gyazo-workflow](https://github.com/nukosuke/alfred-gyazo-workflow) - Gyazo Workflow for Alfred 3.
+- [alfred-gyazo-uploader](https://github.com/kawamataryo/alfred-gyazo-uploader) - Alfred-workflow for easy file uploading to Gyazo.
