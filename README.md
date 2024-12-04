@@ -18,6 +18,7 @@ You can use the offical open source versions of Gyazo.
 ### NodeJS
 
 - [gyazo-api](https://www.npmjs.com/package/gyazo-api) - Gyazo API wrapper for Node
+- [gyazo-api-ts](https://www.npmjs.com/package/gyazo-api-ts) - Gyazo API wrapper for Node.js written in TypeScript.
 
 ### Ruby
 - [gyazo](https://rubygems.org/gems/gyazo/) - Gyazo API wrapper for Ruby
