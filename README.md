@@ -37,6 +37,7 @@ You can use the offical open source versions of Gyazo.
 
 ## Upload Tools
 
+- [gyazemon](https://github.com/hata6502/gyazemon) - Cross-platform Gyazo uploader.
 - [UnityGyazo](https://github.com/cignoir/UnityGyazo) - Gyazo Uploader written on Unity.
 - [gyazo-android](https://github.com/tnj/gyazo-android) - Upload Screenshot to Gyazo from Android.
 - [UniGyazo](https://github.com/hidakas/UniGyazo) - UnityEditor Extension for Uploading Screenshot to Gyazo.
